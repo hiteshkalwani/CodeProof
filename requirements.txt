@@ -1,7 +1,0 @@
-fastapi
-uvicorn[standard]
-openai
-jinja2
-black
-RestrictedPython
-docker
